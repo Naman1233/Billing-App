@@ -1,0 +1,4 @@
+pillow
+pdfkit
+fitz
+jinja
