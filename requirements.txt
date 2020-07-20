@@ -1,4 +1,4 @@
 pillow
 pdfkit
 fitz
-jinja
+jinja2
