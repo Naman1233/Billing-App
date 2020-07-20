@@ -2,3 +2,4 @@ pillow
 pdfkit
 fitz
 jinja2
+PyMuPDF
